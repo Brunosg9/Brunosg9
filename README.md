@@ -1,8 +1,7 @@
-### Olá eu sou Bruno Garcia 👋
+- Olá! Eu sou Bruno Garcia👋, atualmente estudante de Gestão de Tecnologia da informação.
 
+- Um entusiasta da tecnologia em busca de conhecimento para me tornar um DevOps Engineer. Atualmente, estou imerso no aprendizado contínuo para aprimorar minhas habilidades nessa área emocionante. Com focos nas habilidades abaixo.
 
-- 🌱 I’m currently learning DevOps Engineer
-- 😄 Pronouns: ele/dele
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,11 +11,7 @@
     
 </head>
 <body>
-    <h1>GitHub </h1>
-
-
-
-
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
