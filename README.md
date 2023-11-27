@@ -1,6 +1,6 @@
 - Olá! Eu sou Bruno Garcia👋, atualmente estudante de Gestão de Tecnologia da informação.
 
-- Um entusiasta da tecnologia em busca de conhecimento para me tornar um DevOps Engineer. Atualmente, estou imerso no aprendizado contínuo para aprimorar minhas habilidades nessa área emocionante. Com focos nas habilidades abaixo.
+-  DevOps Engineer Atualmente, estou imerso no aprendizado contínuo para aprimorar minhas habilidades nessa área emocionante. Com focos nas habilidades abaixo.
 
 
 <!DOCTYPE html>
