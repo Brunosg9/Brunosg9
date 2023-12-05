@@ -2,7 +2,6 @@
 
 -  DevOps Engineer Atualmente, estou imerso no aprendizado contínuo para aprimorar minhas habilidades nessa área emocionante. Com focos nas habilidades abaixo.
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
