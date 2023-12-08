@@ -1,6 +1,6 @@
 - Olá! Eu sou Bruno Garcia👋, atualmente estudante de Gestão de Tecnologia da informação.
 
--  DevOps Engineer Atualmente, estou imerso no aprendizado contínuo para aprimorar minhas habilidades nessa área emocionante. Com focos nas habilidades abaixo.
+-  DevOps Engineer Atualmente, especializando nas ferramentas utilizadas pela profissão com focos em mostrar projetos reais. Dentro da Cloud AWS.
 
 <!DOCTYPE html>
 <html lang="en">
