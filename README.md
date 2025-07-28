@@ -1,6 +1,22 @@
-- Olá! Eu sou Bruno Garcia👋, atualmente estudante de Gestão de Tecnologia da informação.
+- Olá! Eu sou Bruno Garcia👋, atualmente formado em Gestão de Tecnologia da informação.
 
--  DevOps Engineer Atualmente, especializando nas ferramentas utilizadas pela profissão com focos em mostrar projetos reais. Dentro da Cloud AWS.
+-  DevOps Engineer | AWS Cloud | Kubernetes | Terraform | GitOps
+
+Sou Engenheiro DevOps com foco em soluções baseadas na AWS e arquitetura de microsserviços escaláveis com Kubernetes.
+
+🚀 Tenho experiência prática com:
+
+    AWS: EKS, ECS, ECR, S3, RDS, Lambda, SQS, Auto Scaling, CloudFront, CloudWatch, IAM, EventBridge, Amplify, ELB.
+
+    Containers e Orquestração: Docker, Kubernetes, Helm Charts, GitOps com ArgoCD.
+
+    CI/CD: Integração e entrega contínua usando GitHub Actions e GitLab CI/CD.
+
+    Infraestrutura como Código: Criação de ambientes com Terraform e CloudFormation.
+
+🎯 Estou sempre buscando aplicar boas práticas DevOps, criando pipelines eficientes e resilientes, promovendo automação e confiabilidade nos ambientes de desenvolvimento e produção.
+
+📂 Este repositório é voltado para compartilhar projetos reais, demonstrando meu domínio das ferramentas e práticas utilizadas no dia a dia da profissão.
 
 <!DOCTYPE html>
 <html lang="en">
