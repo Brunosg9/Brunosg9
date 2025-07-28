@@ -14,9 +14,8 @@ Sou Engenheiro DevOps com foco em soluções baseadas na AWS e arquitetura de mi
 
     Infraestrutura como Código: Criação de ambientes com Terraform e CloudFormation.
 
-🎯 Estou sempre buscando aplicar boas práticas DevOps, criando pipelines eficientes e resilientes, promovendo automação e confiabilidade nos ambientes de desenvolvimento e produção.
 
-📂 Este repositório é voltado para compartilhar projetos reais, demonstrando meu domínio das ferramentas e práticas utilizadas no dia a dia da profissão.
+Este repositório é voltado para compartilhar projetos reais, demonstrando meu domínio das ferramentas e práticas utilizadas no dia a dia da profissão.
 
 <!DOCTYPE html>
 <html lang="en">
